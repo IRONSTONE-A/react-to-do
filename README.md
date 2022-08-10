@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # :point_right: [Click here to see on browser](https://blog-fire-react-app.vercel.app/)
 
 ### I used;
@@ -27,17 +27,7 @@ step 4: open localhost with yarn start command..
 ![Random User App](https://github.com/IRONSTONE-A/react-to-do/blob/master/react-todo.gif)
 
 
-
-
-
-
-
-
-
-=======
-
-#yeni format eklenecek
->>>>>>> 0ffe0ad38b659c41b098d2a2988002efdb2450e9
+<!-- >>>>>>> 0ffe0ad38b659c41b098d2a2988002efdb2450e9 -->
 # API Base URLs
 
 ## https://tutorials-api-cw.herokuapp.com/api/tutorials
